@@ -1,0 +1,7 @@
+.nvimlog
+project.json
+main
+
+.terraform/
+*.tfstate
+*.tfstate.backup
